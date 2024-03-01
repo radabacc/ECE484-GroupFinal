@@ -1,1 +1,2 @@
-# ECE484-GroupFinal
+# ECE484-GroupFinal Pinball Machine
+
