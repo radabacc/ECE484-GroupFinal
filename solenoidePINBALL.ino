@@ -1,9 +1,10 @@
+//Code for flipper on Pinball Machine with button
 int led = 13;
-//int button 2; 
+int button 2; 
 int solenoide = 4;
 
 void setup() {
-  //pinMode(button, INPUT_PULLUP); // Set button pin as input with internal pull-up resistor
+  pinMode(button, INPUT_PULLUP); // Set button pin as input with internal pull-up resistor
   pinMode(solenoide, OUTPUT);
   pinMode(led, OUTPUT);
 }
