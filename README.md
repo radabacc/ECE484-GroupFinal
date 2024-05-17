@@ -9,7 +9,7 @@ This is our final product of our pinball machine that we have created for more i
 <br><br>
 [Game Display](https://github.com/radabacc/ECE484_IndividualFinal/wiki)
 <br><br>
-[Launcher]()
+[Launcher](https://github.com/runaroundsam/ECE484IndividualProj)
 
 ## More Information
 To read more about our group project, check out our [wiki](https://github.com/radabacc/ECE484-GroupFinal/wiki) !
