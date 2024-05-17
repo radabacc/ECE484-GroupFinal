@@ -5,7 +5,7 @@ This is our final product of our pinball machine that we have created for more i
 ## Individual Project Component Links 
 [Paddles](https://github.com/apathybc/Project484/wiki)
 <br><br>
-[Playfield]()
+[Playfield](https://github.com/ABendi101/Pinball-Play-Field/wiki/Playfield-Home)
 <br><br>
 [Game Display](https://github.com/radabacc/ECE484_IndividualFinal/wiki)
 <br><br>
